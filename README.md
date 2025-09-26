@@ -1,4 +1,4 @@
-# CreditSage AI 📈
+# CreditSage 📈
 
 **Your Personal AI Coach for Building a Strong Credit Score.**
 
